@@ -5,6 +5,11 @@ This project showcases an interactive sales analysis dashboard built entirely us
 
 ---
 
+## Dashboard Preview
+![Dashboard](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Dashboard.png)
+
+---
+
 ## Folder Structure
 
 ### [1. FNP Datasets](https://github.com/21BPS1591/FNP-Sales-Analysis/tree/main/fnp%20datasets)
@@ -90,3 +95,4 @@ This project showcases an interactive sales analysis dashboard built entirely us
 - Automating data updates for real-time analysis.
 - Expanding the dashboard to include customer feedback analysis.
 - Integrating additional visualizations for deeper insights.
+
