@@ -74,7 +74,3 @@ This project showcases an interactive sales analysis dashboard built entirely us
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
----
-
-## Contact
-For questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/yourusername/FNP-sales-analysis/issues).
