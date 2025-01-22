@@ -21,7 +21,7 @@ This project showcases an interactive sales analysis dashboard built entirely us
 
 ### [3. Dashboard.png](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Dashboard.png)
 
-### [4. Executive Summary](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Executive%20Summary.pdf))
+### [4. Executive Summary](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Executive%20Summary.pdf)
 
 ### [5. Ferns and Petals Sales Analysis.pdf (Questions)](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Ferns%20and%20Petals%20Sales%20Analysis.pdf)
 
