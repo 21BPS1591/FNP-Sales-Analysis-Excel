@@ -5,6 +5,25 @@ This project showcases an interactive sales analysis dashboard built entirely us
 
 ---
 
+## Folder Structure
+
+### [1. FNP Datasets](https://github.com/21BPS1591/FNP-Sales-Analysis/tree/main/fnp%20datasets)
+- [1.1 Customers.csv](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/fnp%20datasets/customers.csv)
+- [1.2 Orders.csv](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/fnp%20datasets/orders.csv)
+- [1.3 Products.csv](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/fnp%20datasets/products.csv)
+
+### [2. Book1.xlsx](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Book1.xlsx)
+
+### [3. Dashboard.png](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Dashboard.png)
+
+### [4. Ferns and Petals Sales Analysis.pdf (Questions)](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Ferns%20and%20Petals%20Sales%20Analysis.pdf)
+
+### [5. README.md](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/README.md)
+
+### [6. Download.jpeg (Logo Image)](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/download.jpeg)
+
+---
+
 ## Features
 - **Key Metrics:**
   - Total Revenue: ₹35,20,984
@@ -36,14 +55,17 @@ This project showcases an interactive sales analysis dashboard built entirely us
 ---
 
 ## Files Included
-- **Dashboard.xlsx**: The Excel file containing the interactive dashboard.
-- **README.md**: Documentation for the project.
+- **[Dashboard.xlsx](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Book1.xlsx)**: The Excel file containing the interactive dashboard.
+- **[Dashboard.png](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Dashboard.png)**: Screenshot of the dashboard.
+- **[Ferns and Petals Sales Analysis.pdf](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Ferns%20and%20Petals%20Sales%20Analysis.pdf)**: Document with the project’s questions.
+- **[README.md](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/README.md)**: Documentation for the project.
+- **[Download.jpeg](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/download.jpeg)**: Logo image used in the project.
 
 ---
 
 ## How to Use
 1. Clone or download this repository.
-2. Open the `Dashboard.xlsx` file in Microsoft Excel.
+2. Open the `Book1.xlsx` file in Microsoft Excel.
 3. Ensure macros and pivot tables are enabled.
 4. Use the slicers to filter and explore the data dynamically.
 
@@ -68,9 +90,3 @@ This project showcases an interactive sales analysis dashboard built entirely us
 - Automating data updates for real-time analysis.
 - Expanding the dashboard to include customer feedback analysis.
 - Integrating additional visualizations for deeper insights.
-
----
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
