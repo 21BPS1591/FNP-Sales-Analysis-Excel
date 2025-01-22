@@ -65,6 +65,7 @@ This project showcases an interactive sales analysis dashboard built entirely us
 - **[Dashboard.xlsx](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Book1.xlsx)**: The Excel file containing the interactive dashboard.
 - **[Dashboard.png](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Dashboard.png)**: Screenshot of the dashboard.
 - **[Ferns and Petals Sales Analysis.pdf](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Ferns%20and%20Petals%20Sales%20Analysis.pdf)**: Document with the project’s questions.
+- **[Executive Summary.pdf](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/Executive%20Summary.pdf)**: Document with the executive summary.
 - **[README.md](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/README.md)**: Documentation for the project.
 - **[Download.jpeg](https://github.com/21BPS1591/FNP-Sales-Analysis/blob/main/download.jpeg)**: Logo image used in the project.
 
