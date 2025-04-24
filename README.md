@@ -92,10 +92,4 @@ This project showcases an interactive sales analysis dashboard built entirely us
 - **Geographical Trends:**
   - Cities like Dhanbad and Guntakal exhibit strong sales performance.
 
----
 
-## Future Enhancements
-- Automating data updates for real-time analysis.
-- Expanding the dashboard to include customer feedback analysis.
-- Integrating additional visualizations for deeper insights.
-...
